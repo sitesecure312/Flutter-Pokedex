@@ -5,10 +5,6 @@
 The app design is based on [Pokedex App](https://dribbble.com/shots/6545819-Pokedex-Apps) designed by [Saepul Nahwan](https://dribbble.com/saepulnahwan23)
 <img src="https://cdn.dribbble.com/users/1171520/screenshots/6545819/dribbble.png"  /> 
 
-## Download App ![GitHub All Releases](https://img.shields.io/github/downloads/Thealphamerc/flutter_pokedex/total?color=green)
-<a href="https://play.google.com/store/apps/details?id=com.thealphamerc.flutte_pokedex"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
-## Video Url
-Youtube link :- [Pokedex Flutter App](https://youtu.be/jfXT94BnxXk)
 ## Screenshots
 
 Screenshots               |  Screenshots  |  Screenshots
